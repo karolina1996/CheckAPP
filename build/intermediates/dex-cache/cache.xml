@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\RicardoAndrés\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="D:\AndroidProjects\Check\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.13.0_2b2f92b7a61c4eef24bd0493467aaf1c04337042\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\RicardoAndrés\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.3.0\9e09011e9767bb76b5e27c9b8223476b93b14631\converter-gson-2.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e09011e9767bb76b5e27c9b8223476b93b14631">
+        <dex dex="D:\AndroidProjects\Check\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.3.0_a2698de6a7db76d162ff60da5ca9454274042a9c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\RicardoAndrés\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.1\2a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0\gson-2.8.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0">
+        <dex dex="D:\AndroidProjects\Check\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.8.1_a614e0ba8bc879e1ff38f37067d709fc278d92da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\RicardoAndrés\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.8.0\5a11f020cce2d11eb71ba916700600e18c4547e7\okhttp-3.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="D:\AndroidProjects\Check\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.8.0_e2b9e47ad0838dabfdb7cd29f9a6a169e37621eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidProjects\Check\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\AndroidProjects\Check\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_ddf0f2d55e234cc6e7f0d378947bed2acacf9e03\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidProjects\Check\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a604a258e03691c0a5a9f69b41a1c1dbbc53fb88">
+        <dex dex="D:\AndroidProjects\Check\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_df7fd8ae344f4ea3837aa60d00e25f87bc21a20f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android Studio\gradle\m2repository\com\android\databinding\baseLibrary\2.3.3\baseLibrary-2.3.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb3399988a52099b0127e27fb5bed666eca86ace">
+        <dex dex="D:\AndroidProjects\Check\app\build\intermediates\transforms\dex\debug\folders\1000\10\baseLibrary-2.3.3_718723d21bd9420dbf680f1faa13a09d0e84f596\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\RicardoAndrés\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.3.0\bcacde6a8ccedcc56c127403d26b76072fe6214d\retrofit-2.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="D:\AndroidProjects\Check\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.3.0_935ad5f2ddfeba5483934e0698b77c8693a395e9\classes.dex" />
+    </item>
+
+</items>
